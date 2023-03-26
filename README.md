@@ -4,7 +4,7 @@ Reacreation of the classic Pong Game using the turtle graphics library.
 This is a 2 PLAYER game.
 
 # Instructions
-**RUN THE 'MAIN' FILE TO PLAY!**
+**RUN THE 'MAIN.PY' FILE TO PLAY!**
 
 # Controls
   Player1 on the **left** move with 'w' and 's'
